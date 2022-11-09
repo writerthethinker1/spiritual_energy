@@ -1,0 +1,22 @@
+{
+  "short_name": "Spiritual Energy",
+  "name": "Spiritual Energy",
+  "description": "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.",
+  "icons": [
+    {
+      "src": "/spiritual_energy/splash-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/spiritual_energy/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/spiritual_energy/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/spiritual_energy/",
+  "theme_color": "#ffffff"
+}

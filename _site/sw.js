@@ -4,7 +4,7 @@ self.addEventListener("install", function(e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
-        "/spiritual_energy/css/pixyll.css?202211082319",
+        "/spiritual_energy/css/pixyll.css?202211090007",
         "/spiritual_energy/"
       ]);
     })

@@ -19,4 +19,4 @@ published: true
 
 Buddha Stone (nirvana): Selenite, specially charged!
 
-Instructions on how to use it to commune with Buddhas in other notes [here!]({{site.baseurl}}{% post_url 2022-11-10-buddas %}) Check it out! Have some tea with the Buddhas. (Non-divine beings).
+Instructions on how to use it to commune with Buddhas in other notes [here!]({{ site.baseurl }}{% post_url 2022-11-10-buddas %}) Check it out! Have some tea with the Buddhas. (Non-divine beings).

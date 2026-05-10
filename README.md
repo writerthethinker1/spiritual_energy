@@ -3,3 +3,5 @@
 This is Ramneek Narayanʻs official spiritual blog. It contains meditations, information about chakras, and other realizations he has had during the journey to be a Buddha. Ramneek is currently a Buddha and wishes to share his wisdom with anyone who wishes to be spiritual. It encourages wholesome thinking and good wishes with everyone. Use it to grow your spiritual side. When you think about the consequences of your actions not just for you, but for others too, you have grown spiritually. Really any act of control and calm thinking, even under times of severe distress, is spiritual.
 
 > The world we live in is silently spiritual, there are so many spiritual things happening in the background of our daily lives and it can be hard taking everything into account. Spirituality is a real force having a noticeable impact on our day to day lives. Our moods, stories, ideas, and brain-wave activity have spiritual roots. Using ancient ideas like the chakras and calm breathing techniques, we can gain access to this archaic sense of being. Warm wishes!
+
+He also has a good medical background and gives news and other information about covid-19 as well. Cheers!
